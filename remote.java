@@ -11,7 +11,11 @@ public class Hello
 	}
 
 	public int div(int a, int b){
-		return a / b;
+
+		int result = 0;
+		if(b != 0)
+			result = a/b;
+		return result;
 	}
 
 	public static void main(String [] args){
