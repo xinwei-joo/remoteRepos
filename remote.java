@@ -14,6 +14,10 @@ public class Hello
 		return a / b;
 	}
 
+	public int mul(int a, int b){
+		return a * b;
+	}
+
 	public static void main(String [] args){
 	}
 }
