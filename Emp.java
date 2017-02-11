@@ -7,6 +7,10 @@ public class Emp implements Serializable
 
 	public void debug(){}
 	
+
 	private String dev = "dev 开发中。。。。。。";
+
+	private String info = "zxw 正在做开发 ........"；
+
 
 }
