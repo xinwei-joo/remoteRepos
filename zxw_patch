@@ -1,0 +1,14 @@
+diff --git a/Emp.java b/Emp.java
+index 7e13b85..f62d39d 100644
+--- a/Emp.java
++++ b/Emp.java
+@@ -11,6 +11,7 @@ public class Emp implements Serializable
+ 	private String dev = "dev 开发中。。。。。。";
+ 
+ 	private String info = "zxw 正在做开发 ........"；
+-
++	
++	private String message = "开发者zxw ,打补丁";
+ 
+ }
+\ No newline at end of file
