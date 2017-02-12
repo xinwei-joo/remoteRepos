@@ -10,10 +10,8 @@ public class Hello
 	}
 
 	public int div(int a, int b){
-		int result = 0;
-		if( 0 != b)
-			result = a/b;
-		return result;
+		
+		return a / b;
 	}
 
 	public int mul(int a, int b){
